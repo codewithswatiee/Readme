@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently in my 3rd year of B.Tech.<br>I'm working on a live project: Zwoop<br>
+👋 Hi, I'm Swati Verma!
+
+💻 Front-End Developer | JavaScript, React, HTML, CSS | Python Enthusiast  
+🚀 Currently building **Zwoop** - a web app for seamless car rentals, driver hires, and ride bookings  
+🎯 Passionate about crafting intuitive and dynamic user interfaces  
+📚 Always learning and exploring new technologies  
+🌱 Check out my projects: Tic Tac Toe, Quiz App, and Project Management App
+
+📫 Reach me at [swativx@gmail.com](mailto:swativx@gmail.com)
+
 
 
 ## 🌐 Socials:
