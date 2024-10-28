@@ -1,7 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Swati Verma!
 
-💻 Full Stack Developer | DSA | Data Science Enthusist 
+💻 Full Stack Developer | DSA | Data Science Enthusist
+
 🎯 Passionate about crafting intuitive and dynamic user interfaces  
 📚 Always learning and exploring new technologies  
 🌱 Check out my projects
