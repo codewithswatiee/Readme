@@ -1,11 +1,10 @@
 # 💫 About Me:
 👋 Hi, I'm Swati Verma!
 
-💻 Front-End Developer | JavaScript, React, HTML, CSS | Python Enthusiast  
-🚀 Currently building **Zwoop** - a web app for seamless car rentals, driver hires, and ride bookings  
+💻 Full Stack Developer | DSA | Data Science Enthusist 
 🎯 Passionate about crafting intuitive and dynamic user interfaces  
 📚 Always learning and exploring new technologies  
-🌱 Check out my projects: Tic Tac Toe, Quiz App, and Project Management App
+🌱 Check out my projects
 
 📫 Reach me at [swativx@gmail.com](mailto:swativx@gmail.com)
 
